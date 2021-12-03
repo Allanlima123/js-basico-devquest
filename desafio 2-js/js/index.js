@@ -1,6 +1,6 @@
-let boletoPago = false;
+const boletoPago = false;
 
-if(boletoPago == false){
+if(boletoPago){
     alert("O boleto está pago!🤑");
     console.log("O boleto está pago!🤑");
 }else{
